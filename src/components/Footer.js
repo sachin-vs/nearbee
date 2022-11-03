@@ -2,7 +2,7 @@
 function Footer(){
     return(
         <footer>
-            <p>Created by </p>
+            <p>Made with ❤️ to connect people</p>
         </footer>
     );
 }
